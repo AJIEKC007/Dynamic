@@ -1,4 +1,4 @@
-
+#include"FillRand.h"
 
 void FillRand(double arr[], const int n)
 {
