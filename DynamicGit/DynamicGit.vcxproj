@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array1.cpp" />
+    <ClCompile Include="Array2.cpp" />
     <ClCompile Include="FillRand.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Print.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Array1.h" />
+    <ClInclude Include="Array2.h" />
     <ClInclude Include="FillRand.h" />
     <ClInclude Include="Print.h" />
   </ItemGroup>
