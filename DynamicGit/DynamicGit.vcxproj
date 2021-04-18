@@ -142,6 +142,7 @@
     <ClCompile Include="Array1.cpp" />
     <ClCompile Include="Array2.cpp" />
     <ClCompile Include="FillRand.cpp" />
+    <ClCompile Include="FillRandTemplated.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Print.cpp" />
   </ItemGroup>
