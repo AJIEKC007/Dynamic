@@ -1,4 +1,3 @@
-#include"Array2.h"
 
 template<typename T>void push_row_back(T**& arr, int& m, const int n)
 {
